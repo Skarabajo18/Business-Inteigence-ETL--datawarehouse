@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "BikeZ", "BikeZ\BikeZ.dtproj", "{92F5E31C-6F2F-4B2E-B2A1-6E3A6281F64F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92F5E31C-6F2F-4B2E-B2A1-6E3A6281F64F}.Development|Default.ActiveCfg = Development
+		{92F5E31C-6F2F-4B2E-B2A1-6E3A6281F64F}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A9BA9A0-3625-458E-A97A-140BFD6BE657}
+	EndGlobalSection
+EndGlobal
